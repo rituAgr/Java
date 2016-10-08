@@ -2,7 +2,8 @@ package Big_Decimal;
 
 import java.math.BigDecimal;  
 public class BigDecimalDemo {  
-    public static void main(String[] argv) {           
+    public static void main(String[] argv) {   
+    	 System.out.println(" Testing Testing 123");
           System.out.println("--- Normal Print-----");  
           System.out.println(2.00 - 1.1);  
           System.out.println(2.00 - 1.2);  
