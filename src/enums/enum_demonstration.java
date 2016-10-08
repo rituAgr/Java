@@ -14,7 +14,7 @@ public class enum_demonstration {
 }
 enum ChineseMenu
 {
-	Soup_chicken(70),Soup_veg(50), Noodle_chicken(100), Noodle_veg(75), Rice_chicken(90), Rice_veg(70);
+	Soup_chicken(705),Soup_veg(50), Noodle_chicken(100), Noodle_veg(75), Rice_chicken(90), Rice_veg(70);
 	// All these all constant names in enums are static and final but the values are not
 	int price;
 	private ChineseMenu(int price)
